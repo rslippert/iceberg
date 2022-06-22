@@ -1,8 +1,7 @@
 # Iceberg 
 Iceberg / Sagent (Smart Agent) AGI process automation software development
 #
-Artificial General Intelligence, or lets call it intelligence has not happened yet because of three issues.
-Second, there needs to be a standard for how code is encapsulated into code that can become buildable processes.
+Artificial "General" Intelligence, or lets call it intelligence has not happened yet because of three issues.
 1) First, there needs to be a body of code that bootstraps instinctive processes that allow learning to happen.
  Iceberg Instincts is the body of code that defines the processes that allow for learning and also useful processes.
 Useful processes will be any open source capability that is developed within the many python modules.
