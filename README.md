@@ -1,10 +1,10 @@
 # Iceberg 
 Iceberg / Sagent (Smart Agent) AGI process automation software development
 #
-Artificial "General" Intelligence, or lets call it intelligence has not happened yet because of three issues.
+Artificial "General" Intelligence, or lets call it intelligence has not happened because of the following issues.
 1) First, there needs to be a body of code that bootstraps instinctive processes that allow learning to happen.
  Iceberg Instincts is the body of code that defines the processes that allow for learning and also useful processes.
-Useful processes will be any open source capability that is developed within the many python modules.
+Useful processes will be any software capability that is developed within the many python modules.
 The wealth of python modules can be converted into processes which in Iceberg are called Sagents.
 2) A "Sagent" or smart agent is a new standard that defines smart (buildable) Iceberg processes.
 Iceberg processes operate using smart agents (Sagent) that collect and control data within those process.
@@ -18,6 +18,11 @@ To say "The dog" does not say which dog, unless "dog" is a contextual referencin
 When we read a book, we have no problem with using this context, unless we read the book backwards.
 This "dog" assumes a dog.json file that could have hundreds of things about the dog instance in the process.
 ICE is thus the short term contextual memory that flows with a process as it is executed.
+4) Finally, Sagents will tend to be arranged in a hierarchical arrangement in a decision tree.
+There will be nodes, where there can be many possible paths that a process can take from that node.
+Given a current data state, a decision can be made towards a desired goal state.
+In Iceberg all of human process knowledge can be defined as a decision tree with decision nodes.
+The path through the decision tree defines the process by which Iceberg acheives its goals.
 
 This README is only here as a very brief intoduction to Iceberg, and how it works.
 For a more formal description, please see the Iceberg_Project.odt
