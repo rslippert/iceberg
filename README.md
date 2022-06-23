@@ -11,7 +11,7 @@ Iceberg processes operate using smart agents (Sagents) that create and processes
 There will also be many Sagent APP's (SAPP's) that define collections of sagents of a particular class.
 For example, Sagent_S processes time history data within Pandas dataframes.
 Thus, in Iceberg, there are classifications of processes that act on classifications of data.
-3)The problem with complex processes; the information grows like a snowball rolling down hill.
+3) The problem with complex processes; the information grows like a snowball rolling down hill.
 In complex systems, we must use context referencing, or the code gets messy as more information is collected.
 Instead, contextual information should be hidden in contextual referencing, like web "COOKIES".
 In Iceberg Sagent processes, data called ICE defines the contextual information as a process executes.
