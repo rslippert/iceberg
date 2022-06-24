@@ -3,13 +3,13 @@ Iceberg / Sagent (Smart Agent) AGI process automation software development
 #
 Artificial "General" Intelligence, or lets call it intelligence has not happened because of the following issues.
 1) First, there needs to be a body of code that bootstraps instinctive processes that allow learning to happen.
- Iceberg Instincts is the body of code that defines the processes that allow for learning and also useful processes.
+Iceberg Instincts is a body of instinctive process decision trees, from which an AGI can learn (build) new abilities.
 These useful processes will be software capabilities that are already developed within the many python modules.
 The wealth of python modules can be converted into processes which in Iceberg are called Sagents.
-2) A "Sagent" or smart agent is a new standard that defines smart (buildable) Iceberg processes.
-Iceberg processes operate using smart agents (Sagents) that create and processes data within process streams.
+2) A "Sagent", or smart agent, is a new standard that defines smart (buildable) processes that process data.
+Iceberg processes operate using smart agents (Sagents) that create and process data of particular classifications.
 There will also be many Sagent APP's (SAPP's) that define collections of sagents of a particular class.
-For example, Sagent_S processes time history data within Pandas dataframes.
+For example, Sagent_S processes time history data.
 Thus, in Iceberg, there are classifications of processes that act on classifications of data.
 3) The problem with complex processes; the information grows like a snowball rolling down hill.
 In complex systems, we must use context referencing, or the code gets messy as more information is collected.
